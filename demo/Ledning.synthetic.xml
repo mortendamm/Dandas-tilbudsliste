@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LedningGroup>
+  <Ledning Ledningsnavn="24111288S->24111071S" OpstroemKnudenavn="24111288S" NedstroemKnudenavn="24111071S">
+    <MaterialeKode>17</MaterialeKode>
+    <TypeAfloebKode>4</TypeAfloebKode>
+    <DiameterIndv>200</DiameterIndv>
+    <Laengde>28.4</Laengde>
+  </Ledning>
+</LedningGroup>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KnudeGroup>
+  <Knude Knudenavn="24111288S">
+    <KnudeKode>1</KnudeKode>
+    <MaterialeKode>17</MaterialeKode>
+    <TypeAfloebKode>4</TypeAfloebKode>
+    <Bundkote>3.12</Bundkote>
+    <Terraenkote>4.54</Terraenkote>
+    <DiameterBredde>600</DiameterBredde>
+    <XKoordinat>572345.17</XKoordinat>
+    <YKoordinat>6222690.55</YKoordinat>
+  </Knude>
+  <Knude Knudenavn="24111071S">
+    <KnudeKode>1</KnudeKode>
+    <MaterialeKode>1</MaterialeKode>
+    <TypeAfloebKode>2</TypeAfloebKode>
+    <Bundkote>2.95</Bundkote>
+    <Terraenkote>4.21</Terraenkote>
+    <DiameterBredde>1000</DiameterBredde>
+    <XKoordinat>572371.00</XKoordinat>
+    <YKoordinat>6222668.40</YKoordinat>
+  </Knude>
+</KnudeGroup>
+

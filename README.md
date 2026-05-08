@@ -1,6 +1,5 @@
 # DANDAS Tilbudsliste Showcase
 
-Denne mappe er et bevidst reduceret og forklarende uddrag af vores interne CAD2BIM-arbejde.
 
 Formålet er ikke at levere en færdig applikation. Formålet er at vise tankegangen og de vigtigste byggesten bag:
 
@@ -22,7 +21,7 @@ Det her er derfor bedst læst som inspirationskode og teknisk dokumentation, ikk
 - et eksempel på hvordan samme logik kan bruges til en tilbudsliste
 - syntetiske demo-filer, inspireret af Aarhus-strukturen
 
-## Hvad er bevidst ikke med
+## Hvad er ikke er med
 
 - Flask-app
 - database
